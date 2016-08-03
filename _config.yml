@@ -6,9 +6,9 @@ color:
   saturation: 0.19295978802256286
   rhythmicContrast: 0.03616317757405341
   brandColors:
-    - '#F7F2B2'
-    - '#ADCF4F'
-    - '#84815B'
-    - '#4A1A2C'
-    - '#8E3557'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: synthetic randomness
