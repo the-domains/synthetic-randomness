@@ -1,4 +1,3 @@
-layout_spectrum: 0.7666742615401745
 typography_spectrum: 0.08374940976500511
 color:
   brandStrength: 0.04735671426169574
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.7666742615401745
 name: synthetic randomness
+title: synthetic
 description: randomness
